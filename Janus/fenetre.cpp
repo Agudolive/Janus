@@ -276,7 +276,6 @@ void Fenetre::slot_button_read(){
 
 
 
-     //temp.count("=", Qt::CaseInsensitive);
 
 //    if (temp.contains("=", Qt::CaseInsensitive)){
 //        qWarning() << "zebzeb";
